@@ -1,0 +1,22 @@
+.navbar-header {
+    padding: 2px 7px;
+}
+
+.navbar-header a {
+    font-size: 21px;
+}
+
+.tab-content {
+    margin-top: 20px;
+}
+
+.view-site a {
+    font-size: 17px;
+    color: #fff;
+    font-weight: 300;
+}
+
+.view-site {
+    display: inline-block;
+    margin-top: 11px;
+}
